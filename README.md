@@ -1,7 +1,7 @@
 # Learning Python 🐍
 
 Python fundamentals from an experienced C# developer's perspective.
-Each file is self-contained and runnable: `python 01-fundamentals/01_variables_types.py`
+Each file is runnable: `python 01-fundamentals/01_variables_types.py`
 
 ## Progress
 
@@ -13,3 +13,4 @@ Each file is self-contained and runnable: `python 01-fundamentals/01_variables_t
 | 4 | `04_dicts.py` | Dict CRUD, `.get()`, `.items()`, `in` operator (vs `Dictionary`) |
 | 5 | `05_control_flow.py` | `if/elif/else`, `for/in`, `range()`, `enumerate`, `while` |
 | 6 | `06_functions.py` | `def`, default args, multiple returns, `*args`/`**kwargs`, lambdas |
+| 7 | `07_operators.py` | Arithmetic (`**`, `//`), comparison, chained, logical (`and`/`or`/`not`), identity (`is`), membership (`in`) |

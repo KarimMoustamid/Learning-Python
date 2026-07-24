@@ -25,6 +25,9 @@ print("favorite_language:", favorite_language, "| type:", type(favorite_language
 # In Python: the variable just points to whatever you assign
 
 x = "Now I'm a string"
+# f"...{expr}..." = f-string (like $"...{expr}..." in C#)
+# {x!r} means repr(x) — shows the string with quotes
+# {type(x).__name__} runs the expression and inserts the result
 print(f"\nx = {x!r}  ➜  type: {type(x).__name__}")
 
 x = 42
