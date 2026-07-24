@@ -1,0 +1,6 @@
+{
+  "provider": "openai",
+  "model": "gpt-5.5",
+  "apiUrl": "http://localhost:3000",
+  "apiKey": ""
+}
