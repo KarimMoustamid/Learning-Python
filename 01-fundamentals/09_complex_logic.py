@@ -1,5 +1,5 @@
 """
-Python Conditionals — Deep Dive 🔀🔬
+Python Complex Logic 🔀🔬
 - Conditional expressions (ternary), chained comparisons
 - in / is / not, truthiness as a design tool
 - match/case (3.10+), the walrus operator, guard clauses

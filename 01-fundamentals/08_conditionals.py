@@ -1,5 +1,5 @@
 """
-Python Conditionals — Basics 🔀
+Python Conditionals 🔀
 - if / else / elif — no parentheses needed, no braces, INDENTATION is the block
 - `else if` from C# becomes `elif`
 - No switch/case (Python 3.10+ has match/case — see the deep dive)
